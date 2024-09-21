@@ -1,0 +1,8 @@
+services:
+  latex:
+    build:
+      target: dev
+      context: latex/.
+    volumes:
+      - .:/workspace:cached
+    command: sleep infinity
