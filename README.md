@@ -27,3 +27,8 @@ We need another VS Code extension that helps us writing `LaTeX` code. it is alre
 <br>
 
 ![ONNX Logo](Build.png)
+
+
+#### 2. Online Templates
+
+![Online Templates](https://www.latextemplates.com/)
