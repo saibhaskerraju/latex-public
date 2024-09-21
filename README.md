@@ -31,4 +31,4 @@ We need another VS Code extension that helps us writing `LaTeX` code. it is alre
 
 #### 2. Online Templates
 
-![Online Templates](https://www.latextemplates.com/)
+[Online Templates](https://www.latextemplates.com/)
